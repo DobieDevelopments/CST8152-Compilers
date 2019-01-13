@@ -14,4 +14,5 @@ Knowledge implemented:
 - lexical and syntactic analysis
 - parse trees
 - developing of a finite automaton
-- Left recursion and transformations for fixing grammar to fit a top down parse tree.
+- Left recursion and transformations where necessary for fixing grammar to fit a top down parse tree.
+- Creation of the FIRST and FOLLOW sets for the generated grammar.
